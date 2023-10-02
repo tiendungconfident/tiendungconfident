@@ -1,4 +1,4 @@
-<img align="left" src="https://i.pinimg.com/736x/ea/1d/97/ea1d9797c9bf3dda7a23b238e5e4b364.jpg"></a>
+<img height="250" width = "1200" align="left" src="https://i.pinimg.com/736x/ea/1d/97/ea1d9797c9bf3dda7a23b238e5e4b364.jpg"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic+Coding&pause=1000&color=FF0000&background=FFFFFF00&width=435&lines=Hi+there%2C+I'm+Tien+Dung.;Hi+there%2C+I'm+tiendung.6789.;You+can+call+me+Demi.)](https://github.com/tiendungconfident)
 
