@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic+Coding&pause=1000&color=FF0000&background=FFFFFF00&width=435&lines=Hi+there%2C+I'm+Tien+Dung.;Hi+there%2C+I'm+tiendung.6789.;You+can+call+me+Demi.)](https://github.com/tiendungconfident)
 
-I'm Tien Dung, a third-year [Management Information System](https://www.facebook.com/lcdhtttkt.hvtc) student at the [Academy of Finance](https://www.facebook.com/aof.fanpage), working primarily with Python and SQL. I'm just a person who wants to make things!
+I'm Tien Dung, a third-year [Management Information System](https://www.facebook.com/lcdhtttkt.hvtc) student at the [Academy of Finance](https://www.facebook.com/aof.fanpage) working primarily with Python and SQL. I'm just a person who wants to make things!
 
 I'm best contacted through Discord, `@tiendung.6789`. Besides, you can find me on [Facebook](https://www.facebook.com/tiendungconfident/) and on [Instagram](https://www.instagram.com/tiendung.6789/).
 
