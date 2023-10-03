@@ -1,9 +1,9 @@
-<img height="300" width = "1080" align="left" src="https://i.pinimg.com/736x/ea/1d/97/ea1d9797c9bf3dda7a23b238e5e4b364.jpg"></a>
+<img height="400" width = "1080" align="left" src="https://png.pngtree.com/background/20211217/original/pngtree-purple-galaxy-constellation-universe-interstellar-graphic-design-wallpaper-background-picture-image_1598068.jpg"></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PT+Sans&weight=900&pause=1000&color=F174F7&width=435&lines=Hi+there%2C+I'm+Tien+Dung.;Hi+there%2C+I'm+tiendung.6789.;You+can+call+me+Dung+or+Demi.)](https://github.com/tiendungconfident)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic+Coding&pause=1000&color=FF0000&background=FFFFFF00&width=435&lines=Hi+there%2C+I'm+Tien+Dung.;Hi+there%2C+I'm+tiendung.6789.;You+can+call+me+Demi.)](https://github.com/tiendungconfident)
-
-I'm Tien Dung, a third-year [Management Information System](https://www.facebook.com/lcdhtttkt.hvtc) student at the [Academy of Finance](https://www.facebook.com/aof.fanpage), working primarily with Python and SQL. I'm just a person who wants to make things!
+I'm Tien Dung, a third-year [Management Information System](https://www.facebook.com/lcdhtttkt.hvtc) student at the [Academy of Finance](https://www.facebook.com/aof.fanpage) working primarily with Python and SQL. I'm just a person who wants to make things!
 
 I'm best contacted through Discord, `@tiendung.6789`. Besides, you can find me on [Facebook](https://www.facebook.com/tiendungconfident/) and on [Instagram](https://www.instagram.com/tiendung.6789/).
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiendungconfident&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiendungconfident&layout=compact&card_width=250&hide_border=true&theme=jolly"/>
