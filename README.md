@@ -6,4 +6,4 @@ I'm Tien Dung, a third-year [Management Information System](https://www.facebook
 
 I'm best contacted through Discord, `@tiendung.6789`. Besides, you can find me on [Facebook](https://www.facebook.com/tiendungconfident/) and on [Instagram](https://www.instagram.com/tiendung.6789/).
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiendungconfident&layout=compact&card_width=250&hide_border=true&theme=jolly"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiendungconfident&layout=compact&card_width=250&hide_border=true&theme=jolly"/>
