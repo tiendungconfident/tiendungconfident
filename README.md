@@ -4,6 +4,6 @@
 
 I'm Tien Dung, a third-year [Management Information System](https://www.facebook.com/lcdhtttkt.hvtc) student at the [Academy of Finance](https://www.facebook.com/aof.fanpage), which is one of the top-notch universities in Vietnam. I'm constantly learning new things and accumulating experiences. My goal is to become a Data Analyst in the future.
 
-You can reach me best through Discord at `@tiendung.6789`. Additionally, you can also find me on [Facebook](https://www.facebook.com/tiendungconfident/) and on [Instagram](https://www.instagram.com/tiendung.6789/).
+You can reach me best through Discord at `@tiendung.6789`. Additionally, you can also find me on [Facebook](https://www.facebook.com/tiendungconfident/) and [Instagram](https://www.instagram.com/tiendung.6789/).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiendungconfident&layout=compact&card_width=250&hide_border=true&theme=jolly"/>
