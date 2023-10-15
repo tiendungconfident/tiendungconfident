@@ -7,6 +7,6 @@ Welcome to my GitHub profile! I'm Tien Dung, a third-year [Management Informatio
 You can reach me best through Discord at `@tiendung.6789`. Additionally, you can also find me on [Facebook](https://www.facebook.com/tiendungconfident/) and [Instagram](https://www.instagram.com/tiendung.6789/).
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tiendungconfident&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiendungconfident&locale=en&hide_title=false&layout=compact&card_width=240&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=tiendungconfident&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5&order=3" height="139" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiendungconfident&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=jolly&hide_border=false" height="139" alt="languages graph"  />
 </div>
